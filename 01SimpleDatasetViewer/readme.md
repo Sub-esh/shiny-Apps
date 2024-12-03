@@ -1,0 +1,1 @@
+A shiny app to display the summary statistics and the tabular data inside the package:datasets in R. User can select the dataset from a drop-down menu. A more advanced version would display a few graphics as well as allow user to choose another dataset from a different package or perhaps an input dataset.
